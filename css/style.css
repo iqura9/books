@@ -464,3 +464,7 @@ svg:not(:root) {
   justify-content: center;
   align-items: center;
 }
+.main {
+  display: flex;
+  flex-direction: column;
+}
