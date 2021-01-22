@@ -263,6 +263,9 @@
   .imgProfile {
     margin-left: 137px;
   }
+  .four h2 {
+    font-size: 16px;
+  }
 }
 @media only screen and (max-width: 429px) {
   .imgProfile {
