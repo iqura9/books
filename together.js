@@ -18,7 +18,11 @@ function loadGoods() {
         out+= '<div class="box_smallIconLeft">'+data[key]["language"]+'</div>'
         out+=  '</div>';
         out +='<div class="smallIconMid">';
-        out +='<div class="box_smallIconMid">'+data[key]["bookOrAudio"]+'</div>';;
+        if(data[key]["bookOrAudio"]==="Book")
+          out +='<div class="box_smallIconMid">'+data[key]["bookOrAudio"]+'</div>';
+        else
+          out +='<div class="box_smallIconMid_audio">'+data[key]["bookOrAudio"]+'</div>';
+
             out +='</div>';
             out +='<div class="smallIconRight">';
             out += '<div class="box_smallIconRight">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
@@ -37,7 +41,11 @@ function loadGoods() {
         out1+= '<div class="box_smallIconLeft">'+data[key]["language"]+'</div>'
         out1+=  '</div>';
         out1 +='<div class="smallIconMid">';
-        out1 +='<div class="box_smallIconMid">'+data[key]["bookOrAudio"]+'</div>';;
+        if(data[key]["bookOrAudio"]==="Book")
+          out1 +='<div class="box_smallIconMid">'+data[key]["bookOrAudio"]+'</div>';
+        else
+          out1 +='<div class="box_smallIconMid_audio">'+data[key]["bookOrAudio"]+'</div>';
+
             out1 +='</div>';
             out1 +='<div class="smallIconRight">';
             out1 += '<div class="box_smallIconRight">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
@@ -64,6 +72,7 @@ function loadGoods() {
           out2 +='<div class="box_smallIconMid">'+data[key]["bookOrAudio"]+'</div>';
         else
           out2 +='<div class="box_smallIconMid_audio">'+data[key]["bookOrAudio"]+'</div>';
+
             out2 +='</div>';
             out2 +='<div class="smallIconRight">';
             out2 += '<div class="box_smallIconRight">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
@@ -86,7 +95,11 @@ function loadGoods() {
         out3+= '<div class="box_smallIconLeft">'+data[key]["language"]+'</div>'
         out3+=  '</div>';
         out3 +='<div class="smallIconMid">';
-        out3 +='<div class="box_smallIconMid">'+data[key]["bookOrAudio"]+'</div>';;
+        if(data[key]["bookOrAudio"]==="Book")
+          out3 +='<div class="box_smallIconMid">'+data[key]["bookOrAudio"]+'</div>';
+        else
+          out3 +='<div class="box_smallIconMid_audio">'+data[key]["bookOrAudio"]+'</div>';
+          
             out3 +='</div>';
             out3 +='<div class="smallIconRight">';
             out3 +='<div class="box_smallIconRight">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
