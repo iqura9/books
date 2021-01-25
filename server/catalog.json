@@ -128,7 +128,7 @@
     "filter": "reading",
     "bookOrAudio": "Audio",
     "rightNowOnPage": "60",
-    "language": "Ru",
+    "language": "EN",
     "Pages": "100"
   },
   "000015": {
@@ -139,18 +139,29 @@
     "time": "12.01.2021",
     "bookOrAudio": "Book",
     "rightNowOnPage": "219",
-    "language": "EN",
+    "language": "Ru",
     "Pages": "219"
   },
   "000016": {
     "name": "Слова меняют мир ",
     "img": "img/ted.jpeg",
-    "autor": "Эшли Вэнс",
+    "autor": "Андерсон Крис",
     "filter": "reading",
     "bookOrAudio": "Book",
     "rightNowOnPage": "58",
     "language": "EN",
     "Pages": "279"
+
+  },
+  "000017": {
+    "name": "Willpower",
+    "img": "img/will_power.jpg",
+    "autor": "John Tierney",
+    "filter": "toread",
+    "bookOrAudio": "Book",
+    "rightNowOnPage": "0",
+    "language": "EN",
+    "Pages": "304"
 
   }
 
