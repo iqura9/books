@@ -468,3 +468,72 @@ svg:not(:root) {
   display: flex;
   flex-direction: column;
 }
+.FlexCorToRow {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0px;
+  margin-bottom: -30px;
+  position: relative;
+  z-index: 2;
+}
+.box img {
+  position: relative;
+  z-index: 0;
+}
+.box_smallIconLeft {
+  display: flex;
+  width: 45px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: #dc4a88;
+  font-family: Arial;
+  font-weight: 700;
+  color: #fcfcfc;
+  font-size: 16px;
+  border-radius: 24px;
+  border-bottom-left-radius: 7px;
+}
+.box_smallIconMid {
+  display: flex;
+  width: 60px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: #dc4a4a;
+  color: #fcfcfc;
+  font-family: Arial;
+  font-weight: 700;
+  font-size: 16px;
+  margin-left: 20px;
+  border-radius: 24px;
+}
+.box_smallIconRight {
+  display: flex;
+  width: 67px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: #dc4a4a;
+  font-family: Arial;
+  font-weight: 700;
+  color: #fcfcfc;
+  font-size: 14px;
+  border-radius: 24px;
+  border-bottom-right-radius: 7px;
+}
+
+.box_smallIconMid_audio {
+  display: flex;
+  width: 60px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: #c54adc;
+  color: #fcfcfc;
+  font-family: Arial;
+  font-weight: 700;
+  font-size: 16px;
+  margin-left: 20px;
+  border-radius: 24px;
+}
