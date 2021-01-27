@@ -163,6 +163,17 @@
     "language": "EN",
     "Pages": "304"
 
+  },
+  "000018": {
+    "name": "Вторая жизнь Уве ",
+    "img": "img/did.jpg",
+    "autor": "Фредрік Бакман",
+    "filter": "reading",
+    "bookOrAudio": "Book",
+    "rightNowOnPage": "0",
+    "language": "Ru",
+    "Pages": "255"
+
   }
 
 }
