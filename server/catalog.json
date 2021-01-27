@@ -163,6 +163,17 @@
     "language": "EN",
     "Pages": "304"
 
+  },
+  "000018": {
+    "name": "Необузданное Сердце",
+    "img": "img/wild.jpg",
+    "autor": "Элдридж Джон",
+    "filter": "reading",
+    "bookOrAudio": "Book",
+    "rightNowOnPage": "20",
+    "language": "Ru",
+    "Pages": "199"
+
   }
 
 }
