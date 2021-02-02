@@ -172,7 +172,18 @@
     "bookOrAudio": "Book",
     "rightNowOnPage": "199",
     "language": "Ru",
-    "Pages": "199"
+    "Pages": "199",
+    "time": "18.01.2021"
+  },
+  "000019": {
+    "name": "Самурай без меча",
+    "img": "img/samuray.jpg",
+    "autor": "Китами Масао",
+    "filter": "toread",
+    "bookOrAudio": "Book",
+    "rightNowOnPage": "0",
+    "language": "Ru",
+    "Pages": "240"
 
   }
 
