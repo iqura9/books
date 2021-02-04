@@ -142,14 +142,14 @@ svg:not(:root) {
   margin-top: 37px;
   margin-left: 20px;
   font-size: 18px;
-  color: #4a89dc;
+  color: #df123e;
   font-weight: 600;
 }
 .s3 {
   margin-top: 37px;
   margin-left: 60px;
   font-size: 18px;
-  color: #4a89dc;
+  color: #df123e;
   font-weight: 600;
 }
 .imgProfile {
@@ -158,7 +158,7 @@ svg:not(:root) {
   overflow: hidden;
   margin-top: 30px;
   border-radius: 10px;
-  border: 2px solid #4a89dc;
+  border: 2px solid #df123e;
   margin-left: 20px;
 }
 .photo {
@@ -185,7 +185,7 @@ svg:not(:root) {
   margin-bottom: 16px;
   position: relative;
   min-height: 170px;
-  background: linear-gradient(to top, #4a89dc 50%, #5de3ec 100%);
+  background: linear-gradient(to top, #a52631 50%, #dc4a4a 100%);
   width: 100%;
 }
 .third h2 {
@@ -195,11 +195,11 @@ svg:not(:root) {
 }
 .box {
   margin-top: 20px;
-  height: 448px;
+  height: 100%;
   background: white;
   border-radius: 15px;
   width: 250px;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.9);
   overflow: hidden;
 }
 .left img {
@@ -213,7 +213,7 @@ svg:not(:root) {
   display: flex;
 }
 .title {
-  color: rgb(38, 38, 38);
+  color: #333;
   font-size: 16px;
   line-height: 24px;
   font-weight: 600;
@@ -221,6 +221,7 @@ svg:not(:root) {
   margin-top: 10px;
   padding-left: 10px;
   padding-right: 10px;
+  margin-bottom: 33px;
 }
 .right {
   width: 100%;
@@ -448,7 +449,7 @@ svg:not(:root) {
   font-weight: 700;
 }
 .title span {
-  color: #5d9cec;
+  color: #000;
 }
 .footer {
   margin-top: 57px;
@@ -470,6 +471,7 @@ svg:not(:root) {
 }
 .FlexCorToRow {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   margin-top: 0px;
   margin-bottom: -30px;
@@ -478,12 +480,13 @@ svg:not(:root) {
 }
 .box img {
   position: relative;
-  z-index: 0;
+  z-index: -27;
 }
-.box_smallIconLeft {
+.smallIconLeft {
   display: flex;
-  width: 45px;
-  height: 30px;
+  flex-direction: column;
+  width: 27%;
+  height: 70px;
   justify-content: center;
   align-items: center;
   background-color: #dc4a88;
@@ -491,13 +494,15 @@ svg:not(:root) {
   font-weight: 700;
   color: #fcfcfc;
   font-size: 16px;
-  border-radius: 24px;
-  border-bottom-left-radius: 7px;
+  justify-content: space-around;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
-.box_smallIconMid {
+.smallIconMid {
   display: flex;
-  width: 60px;
-  height: 30px;
+  flex-direction: column;
+  width: 36%;
+  height: 70px;
   justify-content: center;
   align-items: center;
   background-color: #dc4a4a;
@@ -505,35 +510,71 @@ svg:not(:root) {
   font-family: Arial;
   font-weight: 700;
   font-size: 16px;
-  margin-left: 20px;
-  border-radius: 24px;
+  justify-content: space-around;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
-.box_smallIconRight {
+.smallIconRight {
   display: flex;
-  width: 67px;
-  height: 30px;
+  flex-direction: column;
+  width: 37%;
+  height: 70px;
   justify-content: center;
   align-items: center;
-  background-color: #dc4a4a;
+  background-color: #a52631;
   font-family: Arial;
   font-weight: 700;
   color: #fcfcfc;
   font-size: 14px;
-  border-radius: 24px;
-  border-bottom-right-radius: 7px;
+  justify-content: space-around;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
-.box_smallIconMid_audio {
+.box_smallIconMid {
+  font-size: 22px;
+  margin-bottom: -30px;
+  margin-left: 2px;
+  color: #000;
+}
+
+.box_smallIconLeft {
+  font-size: 22px;
+  margin-bottom: -30px;
+  margin-left: 2px;
+  color: #000;
+}
+.box_smallIconRight {
+  font-size: 22px;
+  margin-bottom: -32px;
+  margin-left: 5px;
+  color: #000;
+}
+
+.box_smallIconMid1 {
+  font-size: 22px;
+}
+.box_smallIconRight1 {
+  font-size: 22px;
+}
+.box_smallIconLeft1 {
+  font-size: 22px;
+}
+.box_smallIconLeft {
+  font-size: 22px;
+}
+.box_smallIconRight {
+  font-size: 22px;
+}
+
+.lowSkill {
+  width: 100%;
+  height: 70px;
+
   display: flex;
-  width: 60px;
-  height: 30px;
-  justify-content: center;
-  align-items: center;
-  background-color: #c54adc;
-  color: #fcfcfc;
-  font-family: Arial;
-  font-weight: 700;
-  font-size: 16px;
-  margin-left: 20px;
-  border-radius: 24px;
+}
+.newWrapper {
+  min-height: 87%;
+}
+.whyThis {
 }
