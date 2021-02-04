@@ -46,7 +46,7 @@ function loadGoods() {
         out +='<div class="box_smallIconRight">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
         out +='<div class="box_smallIconRight1">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
         if(data[key]["bookOrAudio"]==="Book")
-        out+= '<div class="whyThis">Сторінка</div>';
+        out+= '<div class="whyThis">Прочитано</div>';
         else
         out+= '<div class="whyThis">Прослухано</div>';
         out +='</div>';
@@ -89,7 +89,7 @@ function loadGoods() {
         out1 +='<div class="box_smallIconRight">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
         out1 +='<div class="box_smallIconRight1">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
         if(data[key]["bookOrAudio"]==="Book")
-        out1+= '<div class="whyThis">Сторінка</div>';
+        out1+= '<div class="whyThis">Прочитано</div>';
         else
         out1+= '<div class="whyThis">Прослухано</div>';
         out1 +='</div>';
@@ -135,7 +135,7 @@ out2 +='<div class="smallIconRight">';
 out2 +='<div class="box_smallIconRight">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
 out2 +='<div class="box_smallIconRight1">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
 if(data[key]["bookOrAudio"]==="Book")
-        out2+= '<div class="whyThis">Сторінка</div>';
+        out2+= '<div class="whyThis">Прочитано</div>';
         else
         out2+= '<div class="whyThis">Прослухано</div>';
 out2 +='</div>';
@@ -183,7 +183,7 @@ out3 +='<div class="smallIconRight">';
 out3 +='<div class="box_smallIconRight">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
 out3 +='<div class="box_smallIconRight1">'+data[key]["rightNowOnPage"]+'/'+data[key]["Pages"]+'</div>';
 if(data[key]["bookOrAudio"]==="Book")
-        out3+= '<div class="whyThis">Сторінка</div>';
+        out3+= '<div class="whyThis">Прочитано</div>';
         else
         out3+= '<div class="whyThis">Прослухано</div>';
 out3 +='</div>';
