@@ -10,9 +10,9 @@
     "Pages": "146"
   },
   "000002": {
-    "name": "The One Thing",
+    "name": "The One Thing ",
     "img": "img/TheOneThing.jpg",
-    "autor": "Gary Keller",
+    "autor": "Gary Keller <br>  ",
     "filter": "done2020",
     "bookOrAudio": "Book",
     "rightNowOnPage": "239",
@@ -40,7 +40,7 @@
     "Pages": "100"
   },
   "000006": {
-    "name": "How to Win Friends and Influence People in the Digital Age",
+    "name": "How to Win Friends and Influence People ",
     "img": "img/How_to_Win_Friends_and_Influence_People_in_the_Digital_Age_by_Dale_Carnegie_and_Associates.jpg",
     "autor": "Dale Carnegie",
     "filter": "done2020",
@@ -62,7 +62,7 @@
   "000008": {
     "name": "Never Split The Difference",
     "img": "img/never_split_the_defference.jpeg",
-    "autor": "Chriss Voss and Tahl Raz",
+    "autor": "Chriss Voss and Tahl Raz <br>  ",
     "filter": "done2020",
     "bookOrAudio": "Audio",
     "rightNowOnPage": "100",
@@ -70,9 +70,9 @@
     "Pages": "100"
   },
   "000009": {
-    "name": "Магия утра",
+    "name": "Магия утра ",
     "img": "img/Hel_Elrod__Magiya_utra._Kak_pervyj_chas_dnya_opredelyaet_vash_uspeh.jpeg",
-    "autor": "Хєл Элрод",
+    "autor": "Хєл Элрод <br>  ",
     "filter": "done2020",
     "bookOrAudio": "Audio",
     "rightNowOnPage": "100",
@@ -103,7 +103,7 @@
   "000012": {
     "name": "Вопреки: Путь к победе",
     "img": "img/daniel_zeus.jpg",
-    "autor": "Даниил Тесленко",
+    "autor": "Даниил Тесленко <br>  ",
     "filter": "reading",
     "bookOrAudio": "Book",
     "rightNowOnPage": "229",
@@ -145,7 +145,7 @@
   "000016": {
     "name": "Слова меняют мир ",
     "img": "img/ted.jpeg",
-    "autor": "Андерсон Крис",
+    "autor": "Андерсон Крис <br>  ",
     "filter": "reading",
     "bookOrAudio": "Book",
     "rightNowOnPage": "58",
