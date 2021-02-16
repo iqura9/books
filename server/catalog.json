@@ -106,7 +106,7 @@
     "autor": "Даниил Тесленко <br>  ",
     "filter": "reading",
     "bookOrAudio": "Book",
-    "rightNowOnPage": "229",
+    "rightNowOnPage": "259",
     "language": "Ru",
     "Pages": "374"
   },
@@ -148,7 +148,7 @@
     "autor": "Андерсон Крис <br>  ",
     "filter": "reading",
     "bookOrAudio": "Book",
-    "rightNowOnPage": "58",
+    "rightNowOnPage": "87",
     "language": "EN",
     "Pages": "279"
 
@@ -184,6 +184,17 @@
     "rightNowOnPage": "0",
     "language": "Ru",
     "Pages": "240"
+
+  },
+  "000020": {
+    "name": "Найди время ",
+    "img": "img/findTime.jpg",
+    "autor": "Джейк Кнапп <br>  ",
+    "filter": "reading",
+    "bookOrAudio": "Book",
+    "rightNowOnPage": "19",
+    "language": "Ru",
+    "Pages": "145"
 
   }
 
