@@ -197,7 +197,28 @@
     "language": "Ru",
     "Pages": "145"
 
-  }
+  },
+  "000021": {
+    "name": "After ",
+    "img": "img/after.png",
+    "autor": "Anna Todd <br>  ",
+    "filter": "reading",
+    "bookOrAudio": "Book",
+    "rightNowOnPage": "12",
+    "language": "EN",
+    "Pages": "482"
 
+  },
+  "000022": {
+    "name": "Искусство управлять людьми ",
+    "img": "img/isk.png",
+    "autor": "Віктор Шейнов ",
+    "filter": "reading",
+    "bookOrAudio": "Book",
+    "rightNowOnPage": "208",
+    "language": "Ru",
+    "Pages": "292"
+
+  }
 }
   
