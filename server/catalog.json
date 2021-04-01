@@ -204,7 +204,7 @@
     "autor": "Anna Todd <br>  ",
     "filter": "reading",
     "bookOrAudio": "Book",
-    "rightNowOnPage": "133",
+    "rightNowOnPage": "200",
     "language": "EN",
     "Pages": "482"
 
@@ -218,6 +218,17 @@
     "rightNowOnPage": "228",
     "language": "Ru",
     "Pages": "292"
+
+  },
+  "000023": {
+    "name": "The Little Prince",
+    "img": "img/littleprince.jpg",
+    "autor": "Antoine de Saint-Exupéry",
+    "filter": "done2021",
+    "bookOrAudio": "Book",
+    "rightNowOnPage": "54",
+    "language": "En",
+    "Pages": "54"
 
   }
 }
