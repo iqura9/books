@@ -147,7 +147,7 @@
     "name": "Слова меняют мир ",
     "img": "img/ted.jpeg",
     "autor": "Андерсон Крис <br>  ",
-    "filter": "reading",
+    "filter": "toread",
     "bookOrAudio": "Book",
     "rightNowOnPage": "151",
     "language": "EN",
@@ -191,7 +191,7 @@
     "name": "Найди время ",
     "img": "img/findTime.jpg",
     "autor": "Джейк Кнапп <br>  ",
-    "filter": "reading",
+    "filter": "toread",
     "bookOrAudio": "Book",
     "rightNowOnPage": "19",
     "language": "Ru",
@@ -201,12 +201,13 @@
   "000021": {
     "name": "After ",
     "img": "img/after.png",
-    "autor": "Anna Todd <br>  ",
-    "filter": "reading",
+    "autor": "Anna Todd ",
+    "filter": "done2021",
     "bookOrAudio": "Book",
-    "rightNowOnPage": "200",
+    "rightNowOnPage": "482",
     "language": "EN",
-    "Pages": "482"
+    "Pages": "482",
+	"time": "11.05.2021"
 
   },
   "000022": {
