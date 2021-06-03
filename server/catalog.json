@@ -106,7 +106,7 @@
     "autor": "Даниил Тесленко <br>  ",
     "filter": "reading",
     "bookOrAudio": "Book",
-    "rightNowOnPage": "259",
+    "rightNowOnPage": "324",
     "language": "Ru",
     "Pages": "374"
   },
@@ -207,7 +207,7 @@
     "rightNowOnPage": "482",
     "language": "EN",
     "Pages": "482",
-	"time": "11.05.2021"
+    "time": "11.05.2021"
 
   },
   "000022": {
@@ -230,6 +230,18 @@
     "rightNowOnPage": "54",
     "language": "En",
     "Pages": "54"
+
+  },
+  "000024": {
+    "name": "After We Collided",
+    "img": "img/after2.jpg",
+    "autor": "Anna Todd ",
+    "filter": "reading",
+    "bookOrAudio": "Book",
+    "rightNowOnPage": "70",
+    "language": "EN",
+    "Pages": "606"
+
 
   }
 }
