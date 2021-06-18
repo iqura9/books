@@ -238,10 +238,22 @@
     "autor": "Anna Todd ",
     "filter": "reading",
     "bookOrAudio": "Book",
-    "rightNowOnPage": "82",
+    "rightNowOnPage": "139",
     "language": "EN",
     "Pages": "606"
 
+
+  },
+  "000025": {
+    "name": "The Alchemist",
+    "img": "img/alchemist.png",
+    "autor": "Paulo Coelho ",
+    "filter": "done2021",
+    "bookOrAudio": "Book",
+    "rightNowOnPage": "98",
+    "language": "EN",
+    "Pages": "98",
+    "time": "17.06.2021"
 
   }
 }
